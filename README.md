@@ -167,10 +167,10 @@ fayllarni compile qilib chiqadi, kuting....
 
 - Loyihani ishga tushiring
 
-
+```rb
 loyiha ushbu manzilda ishga tushadi:                   "http://127.0.0.1:8000/uz/"
 Rus tilini tekshirish uchun uz ni ru ga o'zgartiring:  "http://127.0.0.1:8000/ru/"
-
+``` 
 
 <hr>
 <hr>
