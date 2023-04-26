@@ -1,0 +1,137 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-04-26 11:37+0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || (n"
+"%100>=11 && n%100<=14)? 2 : 3);\n"
+
+#: .\myproject\settings.py:122
+msgid "O'zbek"
+msgstr ""
+
+#: .\myproject\settings.py:123
+msgid "Russian"
+msgstr ""
+
+#: .\templates\index.html:485
+msgid "Подать объявление"
+msgstr "Подать объявление"
+
+#: .\templates\index.html:497
+msgid "Сообщения"
+msgstr "Сообщения"
+
+#: .\templates\index.html:515
+msgid "Ваш профиль"
+msgstr "Ваш профиль"
+
+#: .\templates\index.html:578
+msgid "Весь Узбекистан"
+msgstr "Весь Узбекистан"
+
+#: .\templates\index.html:621
+msgid "Поиск"
+msgstr "Поиск"
+
+#: .\templates\index.html:631
+msgid "Главные категории"
+msgstr "Главные категории"
+
+#: .\templates\index.html:671
+msgid "Премиум объявления "
+msgstr "Премиум объявления "
+
+#: .\templates\index.html:1439
+msgid "Начните бизнес в интернете с OLX!"
+msgstr "Начните бизнес в интернете с OLX!"
+
+#: .\templates\index.html:1442
+msgid "Подробнее"
+msgstr "Подробнее"
+
+#: .\templates\index.html:1456
+msgid "Cервис объявлений № 1 в Узбекистане "
+msgstr "Cервис объявлений № 1 в Узбекистане "
+
+#: .\templates\index.html:1456
+msgid ""
+"Частные объявления Узбекистана на OLX (бывший torg.uz) - здесь вы найдете "
+"то, что искали."
+msgstr ""
+"Частные объявления Узбекистана на OLX (бывший torg.uz) - здесь вы найдете "
+"то, что искали."
+
+#: .\templates\index.html:1456
+msgid "Нажав на кнопку "
+msgstr ""
+
+#: .\templates\index.html:1456
+msgid "Подать объявление "
+msgstr "Подать объявление "
+
+#: .\templates\index.html:1456
+msgid ""
+"вы сможете разместить онлайн-объявление на любую необходимую тематику - "
+"поиск работы, услуги, продажа автомобилей, недвижимости, электроники и "
+"многое другое."
+msgstr ""
+"вы сможете разместить онлайн-объявление на любую необходимую тематику - "
+"поиск работы, услуги, продажа автомобилей, недвижимости, электроники и "
+"многое другое."
+
+#: .\templates\index.html:1456
+msgid ""
+"С помощью сервиса OLX в Узбекистане вы можете найти, продать или купить "
+"практически все, что угодно. Воспользовавшись функцией поиска, вы без труда "
+"найдете уже опубликованные объявления интересующей вас тематики"
+msgstr ""
+"С помощью сервиса OLX в Узбекистане вы можете найти, продать или купить "
+"практически все, что угодно. Воспользовавшись функцией поиска, вы без труда "
+"найдете уже опубликованные объявления интересующей вас тематики"
+
+#: .\templates\index.html:1456
+msgid "OLX в Узбекистане - ваш надежный и незаменимый помощник"
+msgstr "OLX в Узбекистане - ваш надежный и незаменимый помощник"
+
+#: .\templates\index.html:1659
+msgid "Принять и Закрыть"
+msgstr "Принять и Закрыть"
+
+#: .\templates\index.html:1661
+msgid ""
+"Этот сайт использует cookies. Вы можете изменить настройки cookies в своём "
+"браузере"
+msgstr ""
+"Этот сайт использует cookies. Вы можете изменить настройки cookies в своём "
+"браузере"
+
+#: .\templates\index.html:1661
+msgid "Узнать больше"
+msgstr "Узнать больше"
+
+#: .\venv\Lib\site-packages\django\contrib\messages\apps.py:15
+msgid "Messages"
+msgstr "Messages"
+
+#: .\venv\Lib\site-packages\django\contrib\sitemaps\apps.py:8
+msgid "Site Maps"
+msgstr "Site Maps"
+
+#: .\venv\Lib\site-packages\django\contrib\staticfiles\apps.py:9
+msgid "Static Files"
+msgstr ""

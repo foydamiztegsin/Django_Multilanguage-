@@ -1,0 +1,116 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-04-26 11:37+0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: .\myproject\settings.py:122
+msgid "O'zbek"
+msgstr ""
+
+#: .\myproject\settings.py:123
+msgid "Russian"
+msgstr ""
+
+#: .\templates\index.html:485
+msgid "Подать объявление"
+msgstr "E'lon berish"
+
+#: .\templates\index.html:497
+msgid "Сообщения"
+msgstr "Xabarlar"
+
+#: .\templates\index.html:515
+msgid "Ваш профиль"
+msgstr "Hisobingiz"
+
+#: .\templates\index.html:578
+msgid "Весь Узбекистан"
+msgstr "Butun Uzbekistan"
+
+#: .\templates\index.html:621
+msgid "Поиск"
+msgstr "Qidiruv"
+
+#: .\templates\index.html:631
+msgid "Главные категории"
+msgstr "Bosh toifalar"
+
+#: .\templates\index.html:671
+msgid "Премиум объявления "
+msgstr "PREMIUM E`LONLAR"
+
+#: .\templates\index.html:1439
+msgid "Начните бизнес в интернете с OLX!"
+msgstr "OLX bilan internetda biznesingizni boshlang!"
+
+#: .\templates\index.html:1442
+msgid "Подробнее"
+msgstr "Batafsil"
+
+#: .\templates\index.html:1456
+msgid "Cервис объявлений № 1 в Узбекистане "
+msgstr "Oʻzbekistonda 1-raqamli eʼlonlar servisi"
+
+#: .\templates\index.html:1456
+msgid ""
+"Частные объявления Узбекистана на OLX (бывший torg.uz) - здесь вы найдете "
+"то, что искали."
+msgstr ""
+"Oʻzbekiston xususiy eʼlonlari OLX (avvalgi torg.uz) – bu yerda izlaganingizni topasiz."
+
+#: .\templates\index.html:1456
+msgid "Нажав на кнопку "
+msgstr "tugmasiga bosib"
+
+#: .\templates\index.html:1456
+msgid "Подать объявление "
+msgstr "Eʼlon joylashtirish"
+
+#: .\templates\index.html:1456
+msgid ""
+"вы сможете разместить онлайн-объявление на любую необходимую тематику - "
+"поиск работы, услуги, продажа автомобилей, недвижимости, электроники и "
+"многое другое."
+msgstr ""
+"siz istalgan mavzuga oid onlayn-eʼlonni joylashtira olasiz – ish qidirish, xizmat koʻrsatish,"
+
+#: .\templates\index.html:1456
+msgid ""
+"С помощью сервиса OLX в Узбекистане вы можете найти, продать или купить "
+"практически все, что угодно. Воспользовавшись функцией поиска, вы без труда "
+"найдете уже опубликованные объявления интересующей вас тематики"
+msgstr ""
+
+#: .\templates\index.html:1456
+msgid "OLX в Узбекистане - ваш надежный и незаменимый помощник"
+msgstr ""
+
+#: .\templates\index.html:1659
+msgid "Принять и Закрыть"
+msgstr "Qabul qilish"
+
+#: .\templates\index.html:1661
+msgid ""
+"Этот сайт использует cookies. Вы можете изменить настройки cookies в своём "
+"браузере"
+msgstr ""
+"Bu sayt Cookie fayllarni ishlatadi. Brauzeringizda Cookiesʼni sozlashingiz mumkin. Koʼproq maʼlumot olish."
+
+#: .\templates\index.html:1661
+msgid "Узнать больше"
+msgstr ""
