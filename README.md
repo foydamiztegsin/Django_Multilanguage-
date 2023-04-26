@@ -131,7 +131,7 @@ kodlarni bosh qismiga
 
 
 <h3>Главные категории</h3>
-<h3>{% trans 'Главные категории' %} </h3>
+<h3>{% trans 'Главные категории' %} </h3>   # kerakli sozlarni tarjima qilish usuli
 
 ``` 
 yozing va kerakli sozni shu ko'rinishga o'zgartiring
@@ -147,17 +147,18 @@ processing locale uz  #ushbu ko'rinishda javob olishingiz kerak!
 
 - locale faylidan uz papkasiga kiring va ichidagi faylni oching ushbu kodni qidiring:
 
-
+```rb
 #: .\templates\index.html:627
 msgid "Главные категории"
 msgstr "Bosh toifalar"              # qo'lda kiriting
-
+``` 
 locale faylidan ru papkasiga kiring va ichidagi faylni oching ushbu kodni qidiring:
 
+```rb
 #: .\templates\index.html:627
 msgid "Главные категории"
 msgstr "Главные категории"           # qo'lda kiriting
-
+``` 
 yozib bo'lgach terminal orqali ushbu buyruqni bering: tasdiqlash uchun
 ```rb
 django-admin compilemessages
