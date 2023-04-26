@@ -10,6 +10,7 @@
 
 ```rb
 mkdir DjangoMultilanguage 
+cd DjangoMultilanguage
 mkdir templates
 mkdir static
 
@@ -18,14 +19,14 @@ python manage.py startapp mysite
 
 ```
 
-- 2. Loyiha uchun muhit yarating:
+- Loyiha uchun muhit yarating:
 
 ```rb
 python -m venv venv
 venv\Scripts\activate
 ```
 
-- 3. Loyiha setting.py fayliga appni kiriting:
+- Loyiha setting.py fayliga appni kiriting:
 
 ```rb
 INSTALLED_APPS = [
@@ -38,7 +39,7 @@ INSTALLED_APPS = [
     'mysite',  # siz yaratgan app
 ]
 ```
-- 4. Loyiha setting.py faylida templates ni sozlash:
+- Loyiha setting.py faylida templates ni sozlash:
 
 ```rb
 import os
@@ -60,14 +61,14 @@ TEMPLATES = [
 ]
 ```
 
-- 5. Loyiha setting.py faylida static ni sozlash:
+- Loyiha setting.py faylida static ni sozlash:
 
 ```rb
 STATIC_URL = '/static/'
 STATIC_ROOT = os.path.join(BASE_DIR,'static')
 ```
 
-- 6. Loyiha setting.py faylida language(tillar sozlamalari) sozlash:
+- Loyiha setting.py faylida language(tillar sozlamalari) sozlash:
 
 ```rb
 from django.utils.translation import gettext_lazy as  _
@@ -80,7 +81,7 @@ LOCALE_PATHS = [
 ]
 ```
 
-- 7. Middlewareni o'zgartish kiriting:
+- Middlewareni o'zgartish kiriting:
 
 ```rb
 MIDDLEWARE = [
@@ -96,11 +97,11 @@ MIDDLEWARE = [
 
 ```
 
-- 8. templates papkasiga index.html fayl yarating:
+- templates papkasiga index.html fayl yarating:
     - birinchi o'zgartirilmagan htmlni, templates papakasini ichidagi firsthtml faylida topasiz!
 
 
-- 9. Siz yaratgan app ichidagi views.py fayliga quydagilarni yozing:
+- Siz yaratgan app ichidagi views.py fayliga quydagilarni yozing:
 ```rb
 #(fuksiya ko'rinishi)
 from django.shortcuts import render
@@ -109,7 +110,7 @@ def homepage(request):
     return render(request, 'index.html')
 ```
 
-- 10. Loyiha urls.py fayliga quydagilarni kiritib qoýing:
+- Loyiha urls.py fayliga quydagilarni kiritib qoýing:
 
 ```rb
 from django.contrib import admin
@@ -123,7 +124,7 @@ urlpatterns = i18n_patterns(                                     # kiritish
 )
 ```
 
-- 11. # html faylimizdagi sozlarni tarjima qilish uchun 
+- html faylimizdagi sozlarni tarjima qilish uchun 
 kodlarni bosh qismiga 
 ```rb 
 {% load i18n %}
@@ -135,7 +136,7 @@ kodlarni bosh qismiga
 ``` 
 yozing va kerakli sozni shu ko'rinishga o'zgartiring
 
-- 12. O'zgatirib bo'lgach terminal orqali ushbu buyruqni bering:
+- O'zgatirib bo'lgach terminal orqali ushbu buyruqni bering:
 
 ```rb
 django-admin makemessages --all
@@ -144,7 +145,7 @@ processing locale ru
 processing locale uz  #ushbu ko'rinishda javob olishingiz kerak!
 
 
-- 13. locale faylidan uz papkasiga kiring va ichidagi faylni oching ushbu kodni qidiring:
+- locale faylidan uz papkasiga kiring va ichidagi faylni oching ushbu kodni qidiring:
 
 
 #: .\templates\index.html:627
@@ -163,14 +164,15 @@ django-admin compilemessages
 ```
 fayllarni compile qilib chiqadi, kuting....
 
-- 14. Loyihani ishga tushiring
+- Loyihani ishga tushiring
 
 
 loyiha ushbu manzilda ishga tushadi:                   "http://127.0.0.1:8000/uz/"
 Rus tilini tekshirish uchun uz ni ru ga o'zgartiring:  "http://127.0.0.1:8000/ru/"
 
 
-
+<hr>
+<hr>
 
 # 2 - bosqich
 - Modelsda ma'lumotlarimizni ham ko'p tillik qilish:
