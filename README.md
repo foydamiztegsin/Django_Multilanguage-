@@ -1,5 +1,5 @@
 # Loyiha ikki bosqichdan iborat!
-    - 1 - bosqich: Loyihani o'zgarmaydigan sozlarni tarjima qilib chiqish
+    - 1 - bosqich: Loyihani o'zgarmaydigan sozlarni  tarjima qilib chiqish
     - 2 - bosqich: O'zimizning modelimizni ko'p tillik qilish ma'lmotlarni chiqarish
 
 
