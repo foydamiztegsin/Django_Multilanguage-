@@ -3,7 +3,7 @@
     - 2 - bosqich: O'zimizning modelimizni ko'p tillik qilish ma'lmotlarni chiqarish
 
 
-# Kerakli dasturni o'rnatib oling: [Gettext](https://mlocati.github.io/articles/gettext-iconv-windows.html)
+# Kerakli  dasturni o'rnatib oling: [Gettext](https://mlocati.github.io/articles/gettext-iconv-windows.html)
 
 
 # 1. Loyihani yaratishni boshlang.
