@@ -26,7 +26,7 @@ python -m venv venv
 venv\Scripts\activate
 ```
 
-- Loyiha setting.py fayliga appni kiriting:
+- Loyiha setting.py  fayliga appni kiriting:
 
 ```rb
 INSTALLED_APPS = [
