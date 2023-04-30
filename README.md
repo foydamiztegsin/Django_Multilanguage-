@@ -9,7 +9,7 @@
 # 1. Loyihani yaratishni boshlang.
 
 ```rb
-mkdir DjangoMultilanguage 
+mkdir  DjangoMultilanguage 
 cd DjangoMultilanguage
 mkdir templates
 mkdir static
