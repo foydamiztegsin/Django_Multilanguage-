@@ -14,7 +14,7 @@ cd DjangoMultilanguage
 mkdir templates
 mkdir static
 
-django-admin startproject myproject .
+django-admin  startproject myproject .
 python manage.py startapp mysite
 
 ```
