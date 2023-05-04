@@ -19,7 +19,7 @@ python manage.py startapp mysite
 
 ```
 
-- Loyiha uchun muhit yarating:
+- Loyiha  uchun muhit yarating:
 
 ```rb
 python -m venv venv
