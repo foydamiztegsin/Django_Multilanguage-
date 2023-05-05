@@ -36,7 +36,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'mysite',  # siz yaratgan app
+    'mysite',  #  siz yaratgan app
 ]
 ```
 - Loyiha setting.py faylida templates ni sozlash:
