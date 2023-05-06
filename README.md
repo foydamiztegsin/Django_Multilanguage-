@@ -1,6 +1,6 @@
 # Loyiha ikki bosqichdan iborat!
     - 1 - bosqich: Loyihani o'zgarmaydigan sozlarni  tarjima qilib chiqish
-    - 2 - bosqich: O'zimizning modelimizni ko'p tillik qilish ma'lmotlarni chiqarish
+    - 2 - bosqich: O'zimizning modelimizni  ko'p tillik qilish ma'lmotlarni chiqarish
 
 
 # Kerakli  dasturni o'rnatib oling: [Gettext](https://mlocati.github.io/articles/gettext-iconv-windows.html)
