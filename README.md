@@ -6,7 +6,7 @@
 # Kerakli  dasturni o'rnatib oling: [Gettext](https://mlocati.github.io/articles/gettext-iconv-windows.html)
 
 
-# 1.  Loyihani yaratishni boshlang.
+# 1.  Loyihani yaratishni  boshlang.
 
 ```rb
 mkdir  DjangoMultilanguage 
