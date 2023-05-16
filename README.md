@@ -15,7 +15,7 @@ mkdir templates
 mkdir static
 
 django-admin  startproject myproject .
-python manage.py  startapp mysite
+python  manage.py  startapp mysite
 
 ```
 
