@@ -81,7 +81,7 @@ LOCALE_PATHS = [
 ]
 ```
 
-- Middlewareni o'zgartish kiriting:
+- Middlewareni  o'zgartish kiriting:
 
 ```rb
 MIDDLEWARE = [
